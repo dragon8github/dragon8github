@@ -6,4 +6,4 @@
 
 每天都会看一些书，给自己最低限度的规定是每年至少33本（我当然也想100本，但不现实）
 
-我最引以为豪的作品是：[pandora](https://github.com/dragon8github/Pandora) 。是我基于对「敏捷个人」概念的思考所诞生的工具。
+我最引以为豪的作品是：[pandora](https://github.com/dragon8github/Pandora) 。是基于「敏捷个人」概念的思考所诞生的工具。
